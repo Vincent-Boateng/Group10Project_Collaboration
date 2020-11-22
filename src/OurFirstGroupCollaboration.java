@@ -7,10 +7,10 @@ public class OurFirstGroupCollaboration {
 
         for(int i =0; i<=100; i++){
 
-            if(i%2 != 0 && i % 3 ==0 ){
+            if(i%2 != 0 && i % 3 ==0 ){//Someone can add the print statement
 
             }
-
+//another person can create the logic for isDivisibleBy5 as a new branch
 
         }
 
