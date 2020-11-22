@@ -12,6 +12,8 @@ public class OurFirstGroupCollaboration {
             }
 //another person can create the logic for isDivisibleBy5 as a new branch
 
+            //I'm about to push the code to remote (origin) and invite each of you to collaborate
+
         }
 
     }
