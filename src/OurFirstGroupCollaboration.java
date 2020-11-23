@@ -5,10 +5,10 @@ public class OurFirstGroupCollaboration {
         //. write a program that can print all the ODD numbers between 0 ~ 100 that can be divisible by 3 & 5
 //I will begin working on the solution
 
-        for(int i =0; i<=100; i++){
+        for(int i =0; i<=100; i++){//This loop will help us get access to all the numbers from zero to 100
 
             if(i%2 != 0 && i % 3 ==0 ){//Someone can add the print statement
-
+System.out.println(i);
             }
 //another person can create the logic for isDivisibleBy5 as a new branch
 
