@@ -10,6 +10,10 @@ public class OurFirstGroupCollaboration {
             if(i%2 != 0 && i % 3 ==0 ){//Someone can add the print statement
 System.out.println(i);
             }
+            System.out.println("========================================");
+
+
+
 //another person can create the logic for isDivisibleBy5 as a new branch
 
             //I'm about to push the code to remote (origin) and invite each of you to collaborate
