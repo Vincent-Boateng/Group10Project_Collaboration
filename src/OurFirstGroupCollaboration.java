@@ -14,7 +14,11 @@ System.out.println(i);
             //This is a good practice
             //Thank you everyone
 
+            // Hi everyone
+            // New Task
+            // This is how to practice
 
+            // This is a good practice for all to be in the same page
 
 //another person can create the logic for isDivisibleBy5 as a new branch
 
