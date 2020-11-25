@@ -11,6 +11,8 @@ public class OurFirstGroupCollaboration {
 System.out.println(i);
             }
             System.out.println("========================================");
+            //This is a good practice
+            //Thank you everyone
 
 
 
