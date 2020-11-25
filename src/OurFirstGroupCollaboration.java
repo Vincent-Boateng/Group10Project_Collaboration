@@ -4,7 +4,7 @@ public class OurFirstGroupCollaboration {
 //Hi Group! I'm inviting you all to collaborate on a project to solve the Java Program below:
         //. write a program that can print all the ODD numbers between 0 ~ 100 that can be divisible by 3 & 5
 //I will begin working on the solution
-
+//Hi everyone. Today is a good day.
         for(int i =0; i<=100; i++){//This loop will help us get access to all the numbers from zero to 100
 
             if(i%2 != 0 && i % 3 ==0 ){//Someone can add the print statement
