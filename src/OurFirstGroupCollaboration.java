@@ -21,6 +21,12 @@ System.out.println(i);
             // This is a good practice for all to be in the same page
 
 
+//<<<<<<< Sayyohat
+//=======
+
+
+
+//>>>>>>> DivisibleBy5
 //another person can create the logic for isDivisibleBy5 as a new branch
 
             //I'm about to push the code to remote (origin) and invite each of you to collaborate
